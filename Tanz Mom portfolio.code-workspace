@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Tanz Mom portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tanz 2",
+		"liveServer.settings.port": 5501
+	}
+}
